@@ -1,0 +1,22 @@
+C:\Users\Supun\source\repos\gp1\gp1\obj\Debug\gp1.csprojAssemblyReference.cache
+C:\Users\Supun\source\repos\gp1\gp1\obj\Debug\gp1.Form1.resources
+C:\Users\Supun\source\repos\gp1\gp1\obj\Debug\gp1.Properties.Resources.resources
+C:\Users\Supun\source\repos\gp1\gp1\obj\Debug\gp1.csproj.GenerateResource.cache
+C:\Users\Supun\source\repos\gp1\gp1\obj\Debug\gp1.csproj.CoreCompileInputs.cache
+C:\Users\Supun\source\repos\gp1\gp1\bin\Debug\gp1.exe.config
+C:\Users\Supun\source\repos\gp1\gp1\bin\Debug\gp1.exe
+C:\Users\Supun\source\repos\gp1\gp1\bin\Debug\gp1.pdb
+C:\Users\Supun\source\repos\gp1\gp1\obj\Debug\gp1.exe
+C:\Users\Supun\source\repos\gp1\gp1\obj\Debug\gp1.pdb
+C:\Users\Aruna Udana\Desktop\gp1\gp1\bin\Debug\gp1.exe.config
+C:\Users\Aruna Udana\Desktop\gp1\gp1\obj\Debug\gp1.exe
+C:\Users\Aruna Udana\Desktop\gp1\gp1\obj\Debug\gp1.pdb
+C:\Users\Aruna Udana\Desktop\gp1\gp1\bin\Debug\gp1.exe
+C:\Users\Aruna Udana\Desktop\gp1\gp1\bin\Debug\gp1.pdb
+C:\Users\Aruna Udana\Desktop\gp1\gp1\obj\Debug\gp1.csprojResolveAssemblyReference.cache
+C:\Users\Aruna Udana\Desktop\gp1\gp1\obj\Debug\gp1.Form1.resources
+C:\Users\Aruna Udana\Desktop\gp1\gp1\obj\Debug\gp1.Properties.Resources.resources
+C:\Users\Aruna Udana\Desktop\gp1\gp1\obj\Debug\gp1.csproj.GenerateResource.Cache
+C:\Users\Aruna Udana\Desktop\gp1\gp1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Aruna Udana\Desktop\gp1\gp1\bin\Debug\MetroFramework.dll
+C:\Users\Aruna Udana\Desktop\gp1\gp1\bin\Debug\MetroFramework.Fonts.dll
